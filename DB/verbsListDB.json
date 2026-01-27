@@ -1,0 +1,3689 @@
+[
+  {
+    "type": "irregular",
+    "base_form": "be",
+    "spanish_form": [
+      "ser",
+      "estar"
+    ],
+    "variation": {
+      "past_form": "was/were",
+      "var_form": "been"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "have",
+    "spanish_form": [
+      "tener",
+      "haber"
+    ],
+    "variation": {
+      "past_form": "had",
+      "var_form": "had"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "do",
+    "spanish_form": [
+      "hacer"
+    ],
+    "variation": {
+      "past_form": "did",
+      "var_form": "done"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "say",
+    "spanish_form": [
+      "decir"
+    ],
+    "variation": {
+      "past_form": "said",
+      "var_form": "said"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "go",
+    "spanish_form": [
+      "ir"
+    ],
+    "variation": {
+      "past_form": "went",
+      "var_form": "gone"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "get",
+    "spanish_form": [
+      "obtener",
+      "conseguir",
+      "llegar",
+      "entender"
+    ],
+    "variation": {
+      "past_form": "got",
+      "var_form": "gotten"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "make",
+    "spanish_form": [
+      "hacer",
+      "fabricar"
+    ],
+    "variation": {
+      "past_form": "made",
+      "var_form": "made"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "know",
+    "spanish_form": [
+      "saber",
+      "conocer"
+    ],
+    "variation": {
+      "past_form": "knew",
+      "var_form": "known"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "take",
+    "spanish_form": [
+      "tomar",
+      "llevar"
+    ],
+    "variation": {
+      "past_form": "took",
+      "var_form": "taken"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "see",
+    "spanish_form": [
+      "ver"
+    ],
+    "variation": {
+      "past_form": "saw",
+      "var_form": "seen"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "work",
+    "spanish_form": [
+      "trabajar",
+      "funcionar"
+    ],
+    "variation": {
+      "past_form": "worked",
+      "var_form": "worked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "want",
+    "spanish_form": [
+      "querer"
+    ],
+    "variation": {
+      "past_form": "wanted",
+      "var_form": "wanted"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "give",
+    "spanish_form": [
+      "dar",
+      "regalar"
+    ],
+    "variation": {
+      "past_form": "gave",
+      "var_form": "given"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "think",
+    "spanish_form": [
+      "pensar",
+      "creer"
+    ],
+    "variation": {
+      "past_form": "thought",
+      "var_form": "thought"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "come",
+    "spanish_form": [
+      "venir"
+    ],
+    "variation": {
+      "past_form": "came",
+      "var_form": "come"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "look",
+    "spanish_form": [
+      "mirar",
+      "parecer"
+    ],
+    "variation": {
+      "past_form": "looked",
+      "var_form": "looked"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "use",
+    "spanish_form": [
+      "usar",
+      "utilizar"
+    ],
+    "variation": {
+      "past_form": "used",
+      "var_form": "used"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "find",
+    "spanish_form": [
+      "encontrar"
+    ],
+    "variation": {
+      "past_form": "found",
+      "var_form": "found"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "tell",
+    "spanish_form": [
+      "contar",
+      "decir"
+    ],
+    "variation": {
+      "past_form": "told",
+      "var_form": "told"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "ask",
+    "spanish_form": [
+      "preguntar",
+      "pedir"
+    ],
+    "variation": {
+      "past_form": "asked",
+      "var_form": "asked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "feel",
+    "spanish_form": [
+      "sentir",
+      "sentirse"
+    ],
+    "variation": {
+      "past_form": "felt",
+      "var_form": "felt"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "leave",
+    "spanish_form": [
+      "dejar",
+      "salir",
+      "abandonar"
+    ],
+    "variation": {
+      "past_form": "left",
+      "var_form": "left"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "put",
+    "spanish_form": [
+      "poner",
+      "colocar"
+    ],
+    "variation": {
+      "past_form": "put",
+      "var_form": "put"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "call",
+    "spanish_form": [
+      "llamar"
+    ],
+    "variation": {
+      "past_form": "called",
+      "var_form": "called"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "keep",
+    "spanish_form": [
+      "mantener",
+      "guardar",
+      "continuar"
+    ],
+    "variation": {
+      "past_form": "kept",
+      "var_form": "kept"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "begin",
+    "spanish_form": [
+      "empezar",
+      "comenzar"
+    ],
+    "variation": {
+      "past_form": "began",
+      "var_form": "begun"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "help",
+    "spanish_form": [
+      "ayudar"
+    ],
+    "variation": {
+      "past_form": "helped",
+      "var_form": "helped"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "become",
+    "spanish_form": [
+      "llegar a ser",
+      "convertirse"
+    ],
+    "variation": {
+      "past_form": "became",
+      "var_form": "become"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "talk",
+    "spanish_form": [
+      "hablar",
+      "platicar"
+    ],
+    "variation": {
+      "past_form": "talked",
+      "var_form": "talked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "mean",
+    "spanish_form": [
+      "significar",
+      "querer decir"
+    ],
+    "variation": {
+      "past_form": "meant",
+      "var_form": "meant"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "run",
+    "spanish_form": [
+      "correr",
+      "dirigir",
+      "administrar"
+    ],
+    "variation": {
+      "past_form": "ran",
+      "var_form": "run"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "write",
+    "spanish_form": [
+      "escribir"
+    ],
+    "variation": {
+      "past_form": "wrote",
+      "var_form": "written"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "play",
+    "spanish_form": [
+      "jugar",
+      "tocar instrumento",
+      "reproducir"
+    ],
+    "variation": {
+      "past_form": "played",
+      "var_form": "played"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "pay",
+    "spanish_form": [
+      "pagar"
+    ],
+    "variation": {
+      "past_form": "paid",
+      "var_form": "paid"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hear",
+    "spanish_form": [
+      "oír",
+      "escuchar"
+    ],
+    "variation": {
+      "past_form": "heard",
+      "var_form": "heard"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "live",
+    "spanish_form": [
+      "vivir"
+    ],
+    "variation": {
+      "past_form": "lived",
+      "var_form": "lived"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "believe",
+    "spanish_form": [
+      "creer"
+    ],
+    "variation": {
+      "past_form": "believed",
+      "var_form": "believed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "move",
+    "spanish_form": [
+      "mover",
+      "mudarse"
+    ],
+    "variation": {
+      "past_form": "moved",
+      "var_form": "moved"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sit",
+    "spanish_form": [
+      "sentarse"
+    ],
+    "variation": {
+      "past_form": "sat",
+      "var_form": "sat"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "happen",
+    "spanish_form": [
+      "suceder",
+      "pasar",
+      "ocurrir"
+    ],
+    "variation": {
+      "past_form": "happened",
+      "var_form": "happened"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "lose",
+    "spanish_form": [
+      "perder"
+    ],
+    "variation": {
+      "past_form": "lost",
+      "var_form": "lost"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "meet",
+    "spanish_form": [
+      "conocer",
+      "reunirse",
+      "encontrar"
+    ],
+    "variation": {
+      "past_form": "met",
+      "var_form": "met"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "include",
+    "spanish_form": [
+      "incluir"
+    ],
+    "variation": {
+      "past_form": "included",
+      "var_form": "included"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "continue",
+    "spanish_form": [
+      "continuar",
+      "seguir"
+    ],
+    "variation": {
+      "past_form": "continued",
+      "var_form": "continued"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "set",
+    "spanish_form": [
+      "establecer",
+      "poner",
+      "configurar"
+    ],
+    "variation": {
+      "past_form": "set",
+      "var_form": "set"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "learn",
+    "spanish_form": [
+      "aprender"
+    ],
+    "variation": {
+      "past_form": "learned",
+      "var_form": "learned"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "change",
+    "spanish_form": [
+      "cambiar"
+    ],
+    "variation": {
+      "past_form": "changed",
+      "var_form": "changed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "lead",
+    "spanish_form": [
+      "guiar",
+      "dirigir",
+      "liderar"
+    ],
+    "variation": {
+      "past_form": "led",
+      "var_form": "led"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "understand",
+    "spanish_form": [
+      "entender",
+      "comprender"
+    ],
+    "variation": {
+      "past_form": "understood",
+      "var_form": "understood"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "watch",
+    "spanish_form": [
+      "ver",
+      "observar",
+      "vigilar"
+    ],
+    "variation": {
+      "past_form": "watched",
+      "var_form": "watched"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "follow",
+    "spanish_form": [
+      "seguir"
+    ],
+    "variation": {
+      "past_form": "followed",
+      "var_form": "followed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "stop",
+    "spanish_form": [
+      "detener",
+      "parar"
+    ],
+    "variation": {
+      "past_form": "stopped",
+      "var_form": "stopped"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "create",
+    "spanish_form": [
+      "crear"
+    ],
+    "variation": {
+      "past_form": "created",
+      "var_form": "created"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "speak",
+    "spanish_form": [
+      "hablar"
+    ],
+    "variation": {
+      "past_form": "spoke",
+      "var_form": "spoken"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "read",
+    "spanish_form": [
+      "leer"
+    ],
+    "variation": {
+      "past_form": "read",
+      "var_form": "read"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "allow",
+    "spanish_form": [
+      "permitir",
+      "dejar"
+    ],
+    "variation": {
+      "past_form": "allowed",
+      "var_form": "allowed"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "add",
+    "spanish_form": [
+      "añadir",
+      "agregar",
+      "sumar"
+    ],
+    "variation": {
+      "past_form": "added",
+      "var_form": "added"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "spend",
+    "spanish_form": [
+      "gastar",
+      "pasar tiempo"
+    ],
+    "variation": {
+      "past_form": "spent",
+      "var_form": "spent"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "grow",
+    "spanish_form": [
+      "crecer",
+      "cultivar"
+    ],
+    "variation": {
+      "past_form": "grew",
+      "var_form": "grown"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "open",
+    "spanish_form": [
+      "abrir"
+    ],
+    "variation": {
+      "past_form": "opened",
+      "var_form": "opened"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "walk",
+    "spanish_form": [
+      "caminar",
+      "pasear"
+    ],
+    "variation": {
+      "past_form": "walked",
+      "var_form": "walked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "win",
+    "spanish_form": [
+      "ganar"
+    ],
+    "variation": {
+      "past_form": "won",
+      "var_form": "won"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "offer",
+    "spanish_form": [
+      "ofrecer"
+    ],
+    "variation": {
+      "past_form": "offered",
+      "var_form": "offered"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "remember",
+    "spanish_form": [
+      "recordar"
+    ],
+    "variation": {
+      "past_form": "remembered",
+      "var_form": "remembered"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "love",
+    "spanish_form": [
+      "amar",
+      "encantar"
+    ],
+    "variation": {
+      "past_form": "loved",
+      "var_form": "loved"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "consider",
+    "spanish_form": [
+      "considerar"
+    ],
+    "variation": {
+      "past_form": "considered",
+      "var_form": "considered"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "appear",
+    "spanish_form": [
+      "aparecer"
+    ],
+    "variation": {
+      "past_form": "appeared",
+      "var_form": "appeared"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "buy",
+    "spanish_form": [
+      "comprar"
+    ],
+    "variation": {
+      "past_form": "bought",
+      "var_form": "bought"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "wait",
+    "spanish_form": [
+      "esperar"
+    ],
+    "variation": {
+      "past_form": "waited",
+      "var_form": "waited"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "serve",
+    "spanish_form": [
+      "servir"
+    ],
+    "variation": {
+      "past_form": "served",
+      "var_form": "served"
+    }
+  },
+  {
+    "type": " irregular",
+    "base_form": "send",
+    "spanish_form": [
+      "enviar",
+      "mandar"
+    ],
+    "variation": {
+      "past_form": "sent",
+      "var_form": "sent"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "expect",
+    "spanish_form": [
+      "esperar",
+      "suponer"
+    ],
+    "variation": {
+      "past_form": "expected",
+      "var_form": "expected"
+    }
+  },
+  {
+    "type": " irregular",
+    "base_form": "build",
+    "spanish_form": [
+      "construir",
+      "edificar"
+    ],
+    "variation": {
+      "past_form": "built",
+      "var_form": "built"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "stay",
+    "spanish_form": [
+      "quedarse",
+      "permanecer"
+    ],
+    "variation": {
+      "past_form": "stayed",
+      "var_form": "stayed"
+    }
+  },
+  {
+    "type": " irregular",
+    "base_form": "fall",
+    "spanish_form": [
+      "caer"
+    ],
+    "variation": {
+      "past_form": "fell",
+      "var_form": "fallen"
+    }
+  },
+  {
+    "type": " irregular",
+    "base_form": "cut",
+    "spanish_form": [
+      "cortar"
+    ],
+    "variation": {
+      "past_form": "cut",
+      "var_form": "cut"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "reach",
+    "spanish_form": [
+      "alcanzar",
+      "llegar a"
+    ],
+    "variation": {
+      "past_form": "reached",
+      "var_form": "reached"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "kill",
+    "spanish_form": [
+      "matar"
+    ],
+    "variation": {
+      "past_form": "killed",
+      "var_form": "killed"
+    }
+  },
+  {
+    "type": " regular",
+    "base_form": "remain",
+    "spanish_form": [
+      "permanecer",
+      "quedarse"
+    ],
+    "variation": {
+      "past_form": "remained",
+      "var_form": "remained"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "suggest",
+    "spanish_form": [
+      "sugerir",
+      "proponer"
+    ],
+    "variation": {
+      "past_form": "suggested",
+      "var_form": "suggested"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "raise",
+    "spanish_form": [
+      "levantar",
+      "subir",
+      "recaudar"
+    ],
+    "variation": {
+      "past_form": "raised",
+      "var_form": "raised"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "pass",
+    "spanish_form": [
+      "pasar",
+      "aprobar"
+    ],
+    "variation": {
+      "past_form": "passed",
+      "var_form": "passed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sell",
+    "spanish_form": [
+      "vender"
+    ],
+    "variation": {
+      "past_form": "sold",
+      "var_form": "sold"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "require",
+    "spanish_form": [
+      "requerir",
+      "exigir"
+    ],
+    "variation": {
+      "past_form": "required",
+      "var_form": "required"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "report",
+    "spanish_form": [
+      "informar",
+      "reportar"
+    ],
+    "variation": {
+      "past_form": "reported",
+      "var_form": "reported"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "decide",
+    "spanish_form": [
+      "decidir"
+    ],
+    "variation": {
+      "past_form": "decided",
+      "var_form": "decided"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "pull",
+    "spanish_form": [
+      "jalar",
+      "tirar"
+    ],
+    "variation": {
+      "past_form": "pulled",
+      "var_form": "pulled"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "break",
+    "spanish_form": [
+      "romper",
+      "quebrar"
+    ],
+    "variation": {
+      "past_form": "broke",
+      "var_form": "broken"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "receive",
+    "spanish_form": [
+      "recibir"
+    ],
+    "variation": {
+      "past_form": "received",
+      "var_form": "received"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "catch",
+    "spanish_form": [
+      "atrapar",
+      "agarrar",
+      "capturar"
+    ],
+    "variation": {
+      "past_form": "caught",
+      "var_form": "caught"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "eat",
+    "spanish_form": [
+      "comer"
+    ],
+    "variation": {
+      "past_form": "ate",
+      "var_form": "eaten"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "explain",
+    "spanish_form": [
+      "explicar"
+    ],
+    "variation": {
+      "past_form": "explained",
+      "var_form": "explained"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sleep",
+    "spanish_form": [
+      "dormir"
+    ],
+    "variation": {
+      "past_form": "slept",
+      "var_form": "slept"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "drive",
+    "spanish_form": [
+      "conducir",
+      "manejar"
+    ],
+    "variation": {
+      "past_form": "drove",
+      "var_form": "driven"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "agree",
+    "spanish_form": [
+      "acordar",
+      "estar de acuerdo"
+    ],
+    "variation": {
+      "past_form": "agreed",
+      "var_form": "agreed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "wear",
+    "spanish_form": [
+      "llevar puesto",
+      "usar ropa"
+    ],
+    "variation": {
+      "past_form": "wore",
+      "var_form": "worn"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "support",
+    "spanish_form": [
+      "apoyar",
+      "soporte"
+    ],
+    "variation": {
+      "past_form": "supported",
+      "var_form": "supported"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "finish",
+    "spanish_form": [
+      "terminar",
+      "acabar"
+    ],
+    "variation": {
+      "past_form": "finished",
+      "var_form": "finished"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "choose",
+    "spanish_form": [
+      "elegir",
+      "escoger"
+    ],
+    "variation": {
+      "past_form": "chose",
+      "var_form": "chosen"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "design",
+    "spanish_form": [
+      "diseñar"
+    ],
+    "variation": {
+      "past_form": "designed",
+      "var_form": "designed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "produce",
+    "spanish_form": [
+      "producir"
+    ],
+    "variation": {
+      "past_form": "produced",
+      "var_form": "produced"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "forget",
+    "spanish_form": [
+      "olvidar"
+    ],
+    "variation": {
+      "past_form": "forgot",
+      "var_form": "forgotten"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "manage",
+    "spanish_form": [
+      "gestionar",
+      "administrar",
+      "lograr"
+    ],
+    "variation": {
+      "past_form": "managed",
+      "var_form": "managed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "bring",
+    "spanish_form": [
+      "traer"
+    ],
+    "variation": {
+      "past_form": "brought",
+      "var_form": "brought"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "save",
+    "spanish_form": [
+      "ahorrar",
+      "guardar",
+      "salvar"
+    ],
+    "variation": {
+      "past_form": "saved",
+      "var_form": "saved"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hit",
+    "spanish_form": [
+      "golpear",
+      "pegar"
+    ],
+    "variation": {
+      "past_form": "hit",
+      "var_form": "hit"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "check",
+    "spanish_form": [
+      "revisar",
+      "comprobar",
+      "verificar"
+    ],
+    "variation": {
+      "past_form": "checked",
+      "var_form": "checked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hold",
+    "spanish_form": [
+      "sostener",
+      "mantener"
+    ],
+    "variation": {
+      "past_form": "held",
+      "var_form": "held"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "push",
+    "spanish_form": [
+      "empujar"
+    ],
+    "variation": {
+      "past_form": "pushed",
+      "var_form": "pushed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "plan",
+    "spanish_form": [
+      "planear",
+      "planificar"
+    ],
+    "variation": {
+      "past_form": "planned",
+      "var_form": "planned"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "draw",
+    "spanish_form": [
+      "dibujar",
+      "atraer"
+    ],
+    "variation": {
+      "past_form": "drew",
+      "var_form": "drawn"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "cause",
+    "spanish_form": [
+      "causar",
+      "provocar"
+    ],
+    "variation": {
+      "past_form": "caused",
+      "var_form": "caused"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "shake",
+    "spanish_form": [
+      "sacudir",
+      "agitar",
+      "dar la mano"
+    ],
+    "variation": {
+      "past_form": "shook",
+      "var_form": "shaken"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "cover",
+    "spanish_form": [
+      "cubrir",
+      "tapar"
+    ],
+    "variation": {
+      "past_form": "covered",
+      "var_form": "covered"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sing",
+    "spanish_form": [
+      "cantar"
+    ],
+    "variation": {
+      "past_form": "sang",
+      "var_form": "sung"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "prepare",
+    "spanish_form": [
+      "preparar"
+    ],
+    "variation": {
+      "past_form": "prepared",
+      "var_form": "prepared"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "drink",
+    "spanish_form": [
+      "beber",
+      "tomar"
+    ],
+    "variation": {
+      "past_form": "drank",
+      "var_form": "drunk"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "solve",
+    "spanish_form": [
+      "resolver",
+      "solucionar"
+    ],
+    "variation": {
+      "past_form": "solved",
+      "var_form": "solved"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "fly",
+    "spanish_form": [
+      "volar"
+    ],
+    "variation": {
+      "past_form": "flew",
+      "var_form": "flown"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "listen",
+    "spanish_form": [
+      "escuchar"
+    ],
+    "variation": {
+      "past_form": "listened",
+      "var_form": "listened"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "ride",
+    "spanish_form": [
+      "montar",
+      "cabalgar",
+      "ir en (bici/moto)"
+    ],
+    "variation": {
+      "past_form": "rode",
+      "var_form": "ridden"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "clean",
+    "spanish_form": [
+      "limpiar"
+    ],
+    "variation": {
+      "past_form": "cleaned",
+      "var_form": "cleaned"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "swim",
+    "spanish_form": [
+      "nadar"
+    ],
+    "variation": {
+      "past_form": "swam",
+      "var_form": "swum"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "cook",
+    "spanish_form": [
+      "cocinar"
+    ],
+    "variation": {
+      "past_form": "cooked",
+      "var_form": "cooked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "win",
+    "spanish_form": [
+      "ganar"
+    ],
+    "variation": {
+      "past_form": "won",
+      "var_form": "won"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "throw",
+    "spanish_form": [
+      "lanzar",
+      "tirar",
+      "arrojar"
+    ],
+    "variation": {
+      "past_form": "threw",
+      "var_form": "thrown"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "travel",
+    "spanish_form": [
+      "viajar"
+    ],
+    "variation": {
+      "past_form": "traveled",
+      "var_form": "traveled"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "steal",
+    "spanish_form": [
+      "robar"
+    ],
+    "variation": {
+      "past_form": "stole",
+      "var_form": "stolen"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "fill",
+    "spanish_form": [
+      "llenar"
+    ],
+    "variation": {
+      "past_form": "filled",
+      "var_form": "filled"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hide",
+    "spanish_form": [
+      "esconder",
+      "ocultar"
+    ],
+    "variation": {
+      "past_form": "hid",
+      "var_form": "hidden"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "wash",
+    "spanish_form": [
+      "lavar"
+    ],
+    "variation": {
+      "past_form": "washed",
+      "var_form": "washed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "shoot",
+    "spanish_form": [
+      "disparar",
+      "filmar",
+      "tirar (en deportes)"
+    ],
+    "variation": {
+      "past_form": "shot",
+      "var_form": "shot"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "fix",
+    "spanish_form": [
+      "arreglar",
+      "reparar",
+      "fijar"
+    ],
+    "variation": {
+      "past_form": "fixed",
+      "var_form": "fixed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "lend",
+    "spanish_form": [
+      "prestar"
+    ],
+    "variation": {
+      "past_form": "lent",
+      "var_form": "lent"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "hope",
+    "spanish_form": [
+      "esperar",
+      "tener esperanza"
+    ],
+    "variation": {
+      "past_form": "hoped",
+      "var_form": "hoped"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "bite",
+    "spanish_form": [
+      "morder"
+    ],
+    "variation": {
+      "past_form": "bit",
+      "var_form": "bitten"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "laugh",
+    "spanish_form": [
+      "reír"
+    ],
+    "variation": {
+      "past_form": "laughed",
+      "var_form": "laughed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "blow",
+    "spanish_form": [
+      "soplar"
+    ],
+    "variation": {
+      "past_form": "blew",
+      "var_form": "blown"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "dance",
+    "spanish_form": [
+      "bailar"
+    ],
+    "variation": {
+      "past_form": "danced",
+      "var_form": "danced"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "wake",
+    "spanish_form": [
+      "despertar"
+    ],
+    "variation": {
+      "past_form": "woke",
+      "var_form": "woken"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "study",
+    "spanish_form": [
+      "estudiar"
+    ],
+    "variation": {
+      "past_form": "studied",
+      "var_form": "studied"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "rise",
+    "spanish_form": [
+      "subir",
+      "ascender",
+      "levantarse"
+    ],
+    "variation": {
+      "past_form": "rose",
+      "var_form": "risen"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "fear",
+    "spanish_form": [
+      "temer",
+      "tener miedo"
+    ],
+    "variation": {
+      "past_form": "feared",
+      "var_form": "feared"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sink",
+    "spanish_form": [
+      "hundir"
+    ],
+    "variation": {
+      "past_form": "sank",
+      "var_form": "sunk"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "dig",
+    "spanish_form": [
+      "cavar"
+    ],
+    "variation": {
+      "past_form": "dug",
+      "var_form": "dug"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "paint",
+    "spanish_form": [
+      "pintar"
+    ],
+    "variation": {
+      "past_form": "painted",
+      "var_form": "painted"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hang",
+    "spanish_form": [
+      "colgar"
+    ],
+    "variation": {
+      "past_form": "hung",
+      "var_form": "hung"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "touch",
+    "spanish_form": [
+      "tocar"
+    ],
+    "variation": {
+      "past_form": "touched",
+      "var_form": "touched"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "freeze",
+    "spanish_form": [
+      "congelar",
+      "quedarse helado"
+    ],
+    "variation": {
+      "past_form": "froze",
+      "var_form": "frozen"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "stick",
+    "spanish_form": [
+      "pegar",
+      "adherir"
+    ],
+    "variation": {
+      "past_form": "stuck",
+      "var_form": "stuck"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "order",
+    "spanish_form": [
+      "ordenar",
+      "pedir"
+    ],
+    "variation": {
+      "past_form": "ordered",
+      "var_form": "ordered"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "shine",
+    "spanish_form": [
+      "brillar"
+    ],
+    "variation": {
+      "past_form": "shone",
+      "var_form": "shone"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "guess",
+    "spanish_form": [
+      "adivinar",
+      "suponer"
+    ],
+    "variation": {
+      "past_form": "guessed",
+      "var_form": "guessed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "slide",
+    "spanish_form": [
+      "deslizar"
+    ],
+    "variation": {
+      "past_form": "slid",
+      "var_form": "slid"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "search",
+    "spanish_form": [
+      "buscar",
+      "investigar"
+    ],
+    "variation": {
+      "past_form": "searched",
+      "var_form": "searched"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "tear",
+    "spanish_form": [
+      "rasgar",
+      "romper"
+    ],
+    "variation": {
+      "past_form": "tore",
+      "var_form": "torn"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "belong",
+    "spanish_form": [
+      "pertenecer"
+    ],
+    "variation": {
+      "past_form": "belonged",
+      "var_form": "belonged"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "awake",
+    "spanish_form": [
+      "despertar"
+    ],
+    "variation": {
+      "past_form": "awoke",
+      "var_form": "awoken"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "trust",
+    "spanish_form": [
+      "confiar"
+    ],
+    "variation": {
+      "past_form": "trusted",
+      "var_form": "trusted"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "forgive",
+    "spanish_form": [
+      "perdonar"
+    ],
+    "variation": {
+      "past_form": "forgave",
+      "var_form": "forgiven"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "climb",
+    "spanish_form": [
+      "escalar",
+      "trepar"
+    ],
+    "variation": {
+      "past_form": "climbed",
+      "var_form": "climbed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "lay",
+    "spanish_form": [
+      "poner",
+      "extender",
+      "echar"
+    ],
+    "variation": {
+      "past_form": "laid",
+      "var_form": "laid"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "count",
+    "spanish_form": [
+      "contar"
+    ],
+    "variation": {
+      "past_form": "counted",
+      "var_form": "counted"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "feed",
+    "spanish_form": [
+      "alimentar"
+    ],
+    "variation": {
+      "past_form": "fed",
+      "var_form": "fed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "arrive",
+    "spanish_form": [
+      "llegar"
+    ],
+    "variation": {
+      "past_form": "arrived",
+      "var_form": "arrived"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "kneel",
+    "spanish_form": [
+      "arrodillarse"
+    ],
+    "variation": {
+      "past_form": "knelt",
+      "var_form": "knelt"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "burn",
+    "spanish_form": [
+      "quemar"
+    ],
+    "variation": {
+      "past_form": "burned",
+      "var_form": "burned"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "hurt",
+    "spanish_form": [
+      "herir",
+      "doler",
+      "lastimar"
+    ],
+    "variation": {
+      "past_form": "hurt",
+      "var_form": "hurt"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "wonder",
+    "spanish_form": [
+      "preguntarse",
+      "maravillarse"
+    ],
+    "variation": {
+      "past_form": "wondered",
+      "var_form": "wondered"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "ring",
+    "spanish_form": [
+      "sonar",
+      "llamar por teléfono"
+    ],
+    "variation": {
+      "past_form": "rang",
+      "var_form": "rung"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "miss",
+    "spanish_form": [
+      "extrañar",
+      "perderse (algo)"
+    ],
+    "variation": {
+      "past_form": "missed",
+      "var_form": "missed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "fight",
+    "spanish_form": [
+      "pelear",
+      "luchar"
+    ],
+    "variation": {
+      "past_form": "fought",
+      "var_form": "fought"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "pick",
+    "spanish_form": [
+      "recoger",
+      "elegir"
+    ],
+    "variation": {
+      "past_form": "picked",
+      "var_form": "picked"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "spread",
+    "spanish_form": [
+      "extender",
+      "esparcir"
+    ],
+    "variation": {
+      "past_form": "spread",
+      "var_form": "spread"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "care",
+    "spanish_form": [
+      "cuidar",
+      "importar"
+    ],
+    "variation": {
+      "past_form": "cared",
+      "var_form": "cared"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "quit",
+    "spanish_form": [
+      "renunciar",
+      "dejar de"
+    ],
+    "variation": {
+      "past_form": "quit",
+      "var_form": "quit"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "answer",
+    "spanish_form": [
+      "responder",
+      "contestar"
+    ],
+    "variation": {
+      "past_form": "answered",
+      "var_form": "answered"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "bet",
+    "spanish_form": [
+      "apostar"
+    ],
+    "variation": {
+      "past_form": "bet",
+      "var_form": "bet"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "seek",
+    "spanish_form": [
+      "buscar"
+    ],
+    "variation": {
+      "past_form": "sought",
+      "var_form": "sought"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "split",
+    "spanish_form": [
+      "dividir",
+      "separar"
+    ],
+    "variation": {
+      "past_form": "split",
+      "var_form": "split"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "upset",
+    "spanish_form": [
+      "disgustar",
+      "alterar"
+    ],
+    "variation": {
+      "past_form": "upset",
+      "var_form": "upset"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "sweep",
+    "spanish_form": [
+      "barrer"
+    ],
+    "variation": {
+      "past_form": "swept",
+      "var_form": "swept"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "hate",
+    "spanish_form": [
+      "odiar"
+    ],
+    "variation": {
+      "past_form": "hated",
+      "var_form": "hated"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "withdraw",
+    "spanish_form": [
+      "retirar",
+      "retirarse"
+    ],
+    "variation": {
+      "past_form": "withdrew",
+      "var_form": "withdrawn"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "smile",
+    "spanish_form": [
+      "sonreír"
+    ],
+    "variation": {
+      "past_form": "smiled",
+      "var_form": "smiled"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "breed",
+    "spanish_form": [
+      "criar",
+      "reproducirse"
+    ],
+    "variation": {
+      "past_form": "bred",
+      "var_form": "bred"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "develop",
+    "spanish_form": [
+      "desarrollar",
+      "fomentar"
+    ],
+    "variation": {
+      "past_form": "developed",
+      "var_form": "developed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "improve",
+    "spanish_form": [
+      "mejorar"
+    ],
+    "variation": {
+      "past_form": "improved",
+      "var_form": "improved"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "update",
+    "spanish_form": [
+      "actualizar"
+    ],
+    "variation": {
+      "past_form": "updated",
+      "var_form": "updated"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "overcome",
+    "spanish_form": [
+      "superar",
+      "vencer"
+    ],
+    "variation": {
+      "past_form": "overcame",
+      "var_form": "overcome"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "download",
+    "spanish_form": [
+      "descargar",
+      "bajar datos"
+    ],
+    "variation": {
+      "past_form": "downloaded",
+      "var_form": "downloaded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "upload",
+    "spanish_form": [
+      "subir",
+      "cargar datos"
+    ],
+    "variation": {
+      "past_form": "uploaded",
+      "var_form": "uploaded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "connect",
+    "spanish_form": [
+      "conectar"
+    ],
+    "variation": {
+      "past_form": "connected",
+      "var_form": "connected"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "share",
+    "spanish_form": [
+      "compartir"
+    ],
+    "variation": {
+      "past_form": "shared",
+      "var_form": "shared"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "print",
+    "spanish_form": [
+      "imprimir"
+    ],
+    "variation": {
+      "past_form": "printed",
+      "var_form": "printed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "delete",
+    "spanish_form": [
+      "borrar",
+      "eliminar"
+    ],
+    "variation": {
+      "past_form": "deleted",
+      "var_form": "deleted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "click",
+    "spanish_form": [
+      "hacer clic"
+    ],
+    "variation": {
+      "past_form": "clicked",
+      "var_form": "clicked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "install",
+    "spanish_form": [
+      "instalar"
+    ],
+    "variation": {
+      "past_form": "installed",
+      "var_form": "installed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "broadcast",
+    "spanish_form": [
+      "transmitir",
+      "difundir"
+    ],
+    "variation": {
+      "past_form": "broadcast",
+      "var_form": "broadcast"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "press",
+    "spanish_form": [
+      "presionar",
+      "apretar"
+    ],
+    "variation": {
+      "past_form": "pressed",
+      "var_form": "pressed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "lock",
+    "spanish_form": [
+      "bloquear",
+      "cerrar con llave"
+    ],
+    "variation": {
+      "past_form": "locked",
+      "var_form": "locked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "unlock",
+    "spanish_form": [
+      "desbloquear"
+    ],
+    "variation": {
+      "past_form": "unlocked",
+      "var_form": "unlocked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "repair",
+    "spanish_form": [
+      "reparar"
+    ],
+    "variation": {
+      "past_form": "repaired",
+      "var_form": "repaired"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "record",
+    "spanish_form": [
+      "grabar",
+      "registrar"
+    ],
+    "variation": {
+      "past_form": "recorded",
+      "var_form": "recorded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "view",
+    "spanish_form": [
+      "ver",
+      "visualizar"
+    ],
+    "variation": {
+      "past_form": "viewed",
+      "var_form": "viewed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "edit",
+    "spanish_form": [
+      "editar"
+    ],
+    "variation": {
+      "past_form": "edited",
+      "var_form": "edited"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "copy",
+    "spanish_form": [
+      "copiar"
+    ],
+    "variation": {
+      "past_form": "copied",
+      "var_form": "copied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "paste",
+    "spanish_form": [
+      "pegar"
+    ],
+    "variation": {
+      "past_form": "pasted",
+      "var_form": "pasted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "type",
+    "spanish_form": [
+      "teclear",
+      "escribir a máquina"
+    ],
+    "variation": {
+      "past_form": "typed",
+      "var_form": "typed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "scroll",
+    "spanish_form": [
+      "desplazarse",
+      "hacer scroll"
+    ],
+    "variation": {
+      "past_form": "scrolled",
+      "var_form": "scrolled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "link",
+    "spanish_form": [
+      "enlazar",
+      "vincular"
+    ],
+    "variation": {
+      "past_form": "linked",
+      "var_form": "linked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "load",
+    "spanish_form": [
+      "cargar"
+    ],
+    "variation": {
+      "past_form": "loaded",
+      "var_form": "loaded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "refresh",
+    "spanish_form": [
+      "actualizar",
+      "refrescar"
+    ],
+    "variation": {
+      "past_form": "refreshed",
+      "var_form": "refreshed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "login",
+    "spanish_form": [
+      "iniciar sesión"
+    ],
+    "variation": {
+      "past_form": "logged in",
+      "var_form": "logged in"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "logout",
+    "spanish_form": [
+      "cerrar sesión"
+    ],
+    "variation": {
+      "past_form": "logged out",
+      "var_form": "logged out"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "register",
+    "spanish_form": [
+      "registrarse"
+    ],
+    "variation": {
+      "past_form": "registered",
+      "var_form": "registered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "submit",
+    "spanish_form": [
+      "enviar",
+      "entregar"
+    ],
+    "variation": {
+      "past_form": "submitted",
+      "var_form": "submitted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "confirm",
+    "spanish_form": [
+      "confirmar"
+    ],
+    "variation": {
+      "past_form": "confirmed",
+      "var_form": "confirmed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "cancel",
+    "spanish_form": [
+      "cancelar"
+    ],
+    "variation": {
+      "past_form": "canceled",
+      "var_form": "canceled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "filter",
+    "spanish_form": [
+      "filtrar"
+    ],
+    "variation": {
+      "past_form": "filtered",
+      "var_form": "filtered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "sort",
+    "spanish_form": [
+      "ordenar",
+      "clasificar"
+    ],
+    "variation": {
+      "past_form": "sorted",
+      "var_form": "sorted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "achieve",
+    "spanish_form": [
+      "lograr",
+      "alcanzar"
+    ],
+    "variation": {
+      "past_form": "achieved",
+      "var_form": "achieved"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "admit",
+    "spanish_form": [
+      "admitir",
+      "confesar"
+    ],
+    "variation": {
+      "past_form": "admitted",
+      "var_form": "admitted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "advise",
+    "spanish_form": [
+      "aconsejar",
+      "asesorar"
+    ],
+    "variation": {
+      "past_form": "advised",
+      "var_form": "advised"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "afford",
+    "spanish_form": [
+      "permitirse",
+      "pagar"
+    ],
+    "variation": {
+      "past_form": "afforded",
+      "var_form": "afforded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "announce",
+    "spanish_form": [
+      "anunciar"
+    ],
+    "variation": {
+      "past_form": "announced",
+      "var_form": "announced"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "avoid",
+    "spanish_form": [
+      "evitar"
+    ],
+    "variation": {
+      "past_form": "avoided",
+      "var_form": "avoided"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "bend",
+    "spanish_form": [
+      "doblar",
+      "inclinarse"
+    ],
+    "variation": {
+      "past_form": "bent",
+      "var_form": "bent"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "borrow",
+    "spanish_form": [
+      "pedir prestado"
+    ],
+    "variation": {
+      "past_form": "borrowed",
+      "var_form": "borrowed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "breathe",
+    "spanish_form": [
+      "respirar"
+    ],
+    "variation": {
+      "past_form": "breathed",
+      "var_form": "breathed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "collect",
+    "spanish_form": [
+      "recolectar",
+      "coleccionar"
+    ],
+    "variation": {
+      "past_form": "collected",
+      "var_form": "collected"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "complain",
+    "spanish_form": [
+      "quejarse"
+    ],
+    "variation": {
+      "past_form": "complained",
+      "var_form": "complained"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "deliver",
+    "spanish_form": [
+      "entregar",
+      "repartir"
+    ],
+    "variation": {
+      "past_form": "delivered",
+      "var_form": "delivered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "deserve",
+    "spanish_form": [
+      "merecer"
+    ],
+    "variation": {
+      "past_form": "deserved",
+      "var_form": "deserved"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "destroy",
+    "spanish_form": [
+      "destruir"
+    ],
+    "variation": {
+      "past_form": "destroyed",
+      "var_form": "destroyed"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "dream",
+    "spanish_form": [
+      "soñar"
+    ],
+    "variation": {
+      "past_form": "dreamed/dreamt",
+      "var_form": "dreamed/dreamt"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "encourage",
+    "spanish_form": [
+      "animar",
+      "fomentar"
+    ],
+    "variation": {
+      "past_form": "encouraged",
+      "var_form": "encouraged"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "enjoy",
+    "spanish_form": [
+      "disfrutar"
+    ],
+    "variation": {
+      "past_form": "enjoyed",
+      "var_form": "enjoyed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "examine",
+    "spanish_form": [
+      "examinar"
+    ],
+    "variation": {
+      "past_form": "examined",
+      "var_form": "examined"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "fit",
+    "spanish_form": [
+      "quedar bien",
+      "ajustar"
+    ],
+    "variation": {
+      "past_form": "fit",
+      "var_form": "fit"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "forbid",
+    "spanish_form": [
+      "prohibir"
+    ],
+    "variation": {
+      "past_form": "forbade",
+      "var_form": "forbidden"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "gather",
+    "spanish_form": [
+      "reunir",
+      "juntar"
+    ],
+    "variation": {
+      "past_form": "gathered",
+      "var_form": "gathered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "handle",
+    "spanish_form": [
+      "manejar",
+      "encargarse"
+    ],
+    "variation": {
+      "past_form": "handled",
+      "var_form": "handled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "imagine",
+    "spanish_form": [
+      "imaginar"
+    ],
+    "variation": {
+      "past_form": "imagined",
+      "var_form": "imagined"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "increase",
+    "spanish_form": [
+      "aumentar",
+      "incrementar"
+    ],
+    "variation": {
+      "past_form": "increased",
+      "var_form": "increased"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "join",
+    "spanish_form": [
+      "unirse",
+      "juntar"
+    ],
+    "variation": {
+      "past_form": "joined",
+      "var_form": "joined"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "jump",
+    "spanish_form": [
+      "saltar"
+    ],
+    "variation": {
+      "past_form": "jumped",
+      "var_form": "jumped"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "knit",
+    "spanish_form": [
+      "tejer"
+    ],
+    "variation": {
+      "past_form": "knitted/knit",
+      "var_form": "knitted/knit"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "knock",
+    "spanish_form": [
+      "tocar la puerta",
+      "golpear"
+    ],
+    "variation": {
+      "past_form": "knocked",
+      "var_form": "knocked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "lift",
+    "spanish_form": [
+      "levantar"
+    ],
+    "variation": {
+      "past_form": "lifted",
+      "var_form": "lifted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "measure",
+    "spanish_form": [
+      "medir"
+    ],
+    "variation": {
+      "past_form": "measured",
+      "var_form": "measured"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "notice",
+    "spanish_form": [
+      "notar",
+      "darse cuenta"
+    ],
+    "variation": {
+      "past_form": "noticed",
+      "var_form": "noticed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "own",
+    "spanish_form": [
+      "poseer",
+      "ser dueño"
+    ],
+    "variation": {
+      "past_form": "owned",
+      "var_form": "owned"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "perform",
+    "spanish_form": [
+      "actuar",
+      "realizar",
+      "llevar a cabo"
+    ],
+    "variation": {
+      "past_form": "performed",
+      "var_form": "performed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "prevent",
+    "spanish_form": [
+      "prevenir",
+      "evitar"
+    ],
+    "variation": {
+      "past_form": "prevented",
+      "var_form": "prevented"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "promise",
+    "spanish_form": [
+      "prometer"
+    ],
+    "variation": {
+      "past_form": "promised",
+      "var_form": "promised"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "realize",
+    "spanish_form": [
+      "darse cuenta",
+      "realizar"
+    ],
+    "variation": {
+      "past_form": "realized",
+      "var_form": "realized"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "remove",
+    "spanish_form": [
+      "quitar",
+      "eliminar"
+    ],
+    "variation": {
+      "past_form": "removed",
+      "var_form": "removed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "replace",
+    "spanish_form": [
+      "reemplazar"
+    ],
+    "variation": {
+      "past_form": "replaced",
+      "var_form": "replaced"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "reply",
+    "spanish_form": [
+      "responder",
+      "replicar"
+    ],
+    "variation": {
+      "past_form": "replied",
+      "var_form": "replied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "satisfy",
+    "spanish_form": [
+      "satisfacer"
+    ],
+    "variation": {
+      "past_form": "satisfied",
+      "var_form": "satisfied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "scream",
+    "spanish_form": [
+      "gritar"
+    ],
+    "variation": {
+      "past_form": "screamed",
+      "var_form": "screamed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "select",
+    "spanish_form": [
+      "seleccionar"
+    ],
+    "variation": {
+      "past_form": "selected",
+      "var_form": "selected"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "settle",
+    "spanish_form": [
+      "establecerse",
+      "resolver"
+    ],
+    "variation": {
+      "past_form": "settled",
+      "var_form": "settled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "shout",
+    "spanish_form": [
+      "gritar"
+    ],
+    "variation": {
+      "past_form": "shouted",
+      "var_form": "shouted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "stare",
+    "spanish_form": [
+      "quedarse mirando",
+      "contemplar"
+    ],
+    "variation": {
+      "past_form": "stared",
+      "var_form": "stared"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "succeed",
+    "spanish_form": [
+      "tener éxito"
+    ],
+    "variation": {
+      "past_form": "succeeded",
+      "var_form": "succeeded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "supply",
+    "spanish_form": [
+      "suministrar",
+      "proveer"
+    ],
+    "variation": {
+      "past_form": "supplied",
+      "var_form": "supplied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "survive",
+    "spanish_form": [
+      "sobrevivir"
+    ],
+    "variation": {
+      "past_form": "survived",
+      "var_form": "survived"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "treat",
+    "spanish_form": [
+      "tratar"
+    ],
+    "variation": {
+      "past_form": "treated",
+      "var_form": "treated"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "vote",
+    "spanish_form": [
+      "votar"
+    ],
+    "variation": {
+      "past_form": "voted",
+      "var_form": "voted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "warn",
+    "spanish_form": [
+      "advertir"
+    ],
+    "variation": {
+      "past_form": "warned",
+      "var_form": "warned"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "waste",
+    "spanish_form": [
+      "desperdiciar",
+      "malgastar"
+    ],
+    "variation": {
+      "past_form": "wasted",
+      "var_form": "wasted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "weigh",
+    "spanish_form": [
+      "pesar"
+    ],
+    "variation": {
+      "past_form": "weighed",
+      "var_form": "weighed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "whisper",
+    "spanish_form": [
+      "susurrar"
+    ],
+    "variation": {
+      "past_form": "whispered",
+      "var_form": "whispered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "whistle",
+    "spanish_form": [
+      "silbar"
+    ],
+    "variation": {
+      "past_form": "whistled",
+      "var_form": "whistled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "wish",
+    "spanish_form": [
+      "desear"
+    ],
+    "variation": {
+      "past_form": "wished",
+      "var_form": "wished"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "worry",
+    "spanish_form": [
+      "preocuparse"
+    ],
+    "variation": {
+      "past_form": "worried",
+      "var_form": "worried"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "wrap",
+    "spanish_form": [
+      "envolver"
+    ],
+    "variation": {
+      "past_form": "wrapped",
+      "var_form": "wrapped"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "accept",
+    "spanish_form": [
+      "aceptar"
+    ],
+    "variation": {
+      "past_form": "accepted",
+      "var_form": "accepted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "behave",
+    "spanish_form": [
+      "comportarse"
+    ],
+    "variation": {
+      "past_form": "behaved",
+      "var_form": "behaved"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "bless",
+    "spanish_form": [
+      "bendecir"
+    ],
+    "variation": {
+      "past_form": "blessed",
+      "var_form": "blessed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "blind",
+    "spanish_form": [
+      "cegar"
+    ],
+    "variation": {
+      "past_form": "blinded",
+      "var_form": "blinded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "blink",
+    "spanish_form": [
+      "parpadear"
+    ],
+    "variation": {
+      "past_form": "blinked",
+      "var_form": "blinked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "brush",
+    "spanish_form": [
+      "cepillar"
+    ],
+    "variation": {
+      "past_form": "brushed",
+      "var_form": "brushed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "challenge",
+    "spanish_form": [
+      "desafiar",
+      "retar"
+    ],
+    "variation": {
+      "past_form": "challenged",
+      "var_form": "challenged"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "cheer",
+    "spanish_form": [
+      "animar",
+      "vitorear"
+    ],
+    "variation": {
+      "past_form": "cheered",
+      "var_form": "cheered"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "clap",
+    "spanish_form": [
+      "aplaudir"
+    ],
+    "variation": {
+      "past_form": "clapped",
+      "var_form": "clapped"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "confuse",
+    "spanish_form": [
+      "confundir"
+    ],
+    "variation": {
+      "past_form": "confused",
+      "var_form": "confused"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "damage",
+    "spanish_form": [
+      "dañar"
+    ],
+    "variation": {
+      "past_form": "damaged",
+      "var_form": "damaged"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "double",
+    "spanish_form": [
+      "duplicar"
+    ],
+    "variation": {
+      "past_form": "doubled",
+      "var_form": "doubled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "drag",
+    "spanish_form": [
+      "arrastrar"
+    ],
+    "variation": {
+      "past_form": "dragged",
+      "var_form": "dragged"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "earn",
+    "spanish_form": [
+      "ganar",
+      "merecer"
+    ],
+    "variation": {
+      "past_form": "earned",
+      "var_form": "earned"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "employ",
+    "spanish_form": [
+      "emplear"
+    ],
+    "variation": {
+      "past_form": "employed",
+      "var_form": "employed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "empty",
+    "spanish_form": [
+      "vaciar"
+    ],
+    "variation": {
+      "past_form": "emptied",
+      "var_form": "emptied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "exercise",
+    "spanish_form": [
+      "ejercitar",
+      "hacer ejercicio"
+    ],
+    "variation": {
+      "past_form": "exercised",
+      "var_form": "exercised"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "fasten",
+    "spanish_form": [
+      "abrochar",
+      "sujetar"
+    ],
+    "variation": {
+      "past_form": "fastened",
+      "var_form": "fastened"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "float",
+    "spanish_form": [
+      "flotar"
+    ],
+    "variation": {
+      "past_form": "floated",
+      "var_form": "floated"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "flood",
+    "spanish_form": [
+      "inundar"
+    ],
+    "variation": {
+      "past_form": "flooded",
+      "var_form": "flooded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "grab",
+    "spanish_form": [
+      "agarrar",
+      "tomar bruscamente"
+    ],
+    "variation": {
+      "past_form": "grabbed",
+      "var_form": "grabbed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "guarantee",
+    "spanish_form": [
+      "garantizar"
+    ],
+    "variation": {
+      "past_form": "guaranteed",
+      "var_form": "guaranteed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "guard",
+    "spanish_form": [
+      "vigilar",
+      "custodiar"
+    ],
+    "variation": {
+      "past_form": "guarded",
+      "var_form": "guarded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "hug",
+    "spanish_form": [
+      "abrazar"
+    ],
+    "variation": {
+      "past_form": "hugged",
+      "var_form": "hugged"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "identify",
+    "spanish_form": [
+      "identificar"
+    ],
+    "variation": {
+      "past_form": "identified",
+      "var_form": "identified"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "ignore",
+    "spanish_form": [
+      "ignorar"
+    ],
+    "variation": {
+      "past_form": "ignored",
+      "var_form": "ignored"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "joke",
+    "spanish_form": [
+      "bromear"
+    ],
+    "variation": {
+      "past_form": "joked",
+      "var_form": "joked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "kick",
+    "spanish_form": [
+      "patear"
+    ],
+    "variation": {
+      "past_form": "kicked",
+      "var_form": "kicked"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "kiss",
+    "spanish_form": [
+      "besar"
+    ],
+    "variation": {
+      "past_form": "kissed",
+      "var_form": "kissed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "label",
+    "spanish_form": [
+      "etiquetar"
+    ],
+    "variation": {
+      "past_form": "labeled",
+      "var_form": "labeled"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "melt",
+    "spanish_form": [
+      "derretir"
+    ],
+    "variation": {
+      "past_form": "melted",
+      "var_form": "melted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "multiply",
+    "spanish_form": [
+      "multiplicar"
+    ],
+    "variation": {
+      "past_form": "multiplied",
+      "var_form": "multiplied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "nod",
+    "spanish_form": [
+      "asentir con la cabeza"
+    ],
+    "variation": {
+      "past_form": "nodded",
+      "var_form": "nodded"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "obey",
+    "spanish_form": [
+      "obedecer"
+    ],
+    "variation": {
+      "past_form": "obeyed",
+      "var_form": "obeyed"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "pause",
+    "spanish_form": [
+      "pausar"
+    ],
+    "variation": {
+      "past_form": "paused",
+      "var_form": "paused"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "permit",
+    "spanish_form": [
+      "permitir"
+    ],
+    "variation": {
+      "past_form": "permitted",
+      "var_form": "permitted"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "rely",
+    "spanish_form": [
+      "confiar",
+      "depender"
+    ],
+    "variation": {
+      "past_form": "relied",
+      "var_form": "relied"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "scare",
+    "spanish_form": [
+      "asustar"
+    ],
+    "variation": {
+      "past_form": "scared",
+      "var_form": "scared"
+    }
+  },
+  {
+    "type": "regular",
+    "base_form": "tap",
+    "spanish_form": [
+      "golpear suavemente",
+      "dar un toque"
+    ],
+    "variation": {
+      "past_form": "tapped",
+      "var_form": "tapped"
+    }
+  },
+  {
+    "type": "irregular",
+    "base_form": "can",
+    "spanish_form": [
+      "poder",
+      "saber hacer algo"
+    ],
+    "variation": {
+      "past_form": "could",
+      "var_form": "been able to"
+    }
+  }
+]
