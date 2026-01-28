@@ -23,6 +23,7 @@ export default function HomePage() {
   return (
     <>
       <div className="p-10 md:w-2/5 flex flex-wrap gap-5 w-full mx-auto">
+        <VerbCard verb={sortedVerbs[verbsArrIndex]} />
         <div className="w-full flex rounded-lg overflow-hidden border border-gray-300">
           <button
             onClick={() => prevNextVerb('prev')}
@@ -35,7 +36,6 @@ export default function HomePage() {
             Next
           </button>
         </div>
-        <VerbCard verb={sortedVerbs[verbsArrIndex]} />
       </div>
     </>
   );
