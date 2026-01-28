@@ -8,7 +8,6 @@ export default function PageLayout() {
       <main>
         <Outlet />
       </main>
-      <div>Footer</div>
     </div>
   );
 }

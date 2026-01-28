@@ -1,31 +1,41 @@
+import { useState } from 'react';
+import VerbCard from '../components/VerbCard';
 import { useConfigStateContext } from '../hooks/useConfigStateContext';
+import { randomArr } from '../utils/functions.utils';
 
 export default function HomePage() {
   const contextConfigState = useConfigStateContext();
+  const sortedVerbs = randomArr(contextConfigState.verbs);
 
-  const count = contextConfigState.verbs.reduce(
-    (total, verbb) => {
-      if (verbb.type === 'regular') {
-        return { regulars: total.regulars + 1, irregulars: total.irregulars };
+  const [verbsArrIndex, setVerbsArrIndex] = useState(0);
+
+  const prevNextVerb = (type: 'prev' | 'next') => {
+    setVerbsArrIndex(prev => {
+      if (type === 'prev') {
+        const prevNum = prev - 1;
+        return prevNum < 0 ? sortedVerbs.length - 1 : prevNum;
       } else {
-        return { regulars: total.regulars, irregulars: total.irregulars + 1 };
+        return prev + 1 > sortedVerbs.length - 1 ? 0 : prev + 1;
       }
-    },
-    { regulars: 0, irregulars: 0 },
-  );
+    });
+  };
 
   return (
     <>
-      <h1>THIS IS THE HOME PAGE</h1>
-      <pre>{JSON.stringify(count, null, 2)}</pre>
-      <div className="p-20 flex flex-wrap gap-5">
-        {contextConfigState.verbs.map((verb, i) => (
-          <div
-            key={i}
-            className="p-5 rounded-2xl border-2 border-gray-300 w-50 text-center">
-            {verb.base_form}
-          </div>
-        ))}
+      <div className="p-10 md:w-2/5 flex flex-wrap gap-5 w-full mx-auto">
+        <div className="w-full flex rounded-lg overflow-hidden border border-gray-300">
+          <button
+            onClick={() => prevNextVerb('prev')}
+            className="w-1/2 p-4 bg-slate-300  border-r-gray-300 hover:bg-gray-50 transition-colors">
+            Previous
+          </button>
+          <button
+            onClick={() => prevNextVerb('next')}
+            className="w-1/2 p-4 bg-slate-400  border-l-gray-300 hover:bg-gray-50 transition-colors">
+            Next
+          </button>
+        </div>
+        <VerbCard verb={sortedVerbs[verbsArrIndex]} />
       </div>
     </>
   );
