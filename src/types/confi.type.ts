@@ -4,9 +4,12 @@ export type configType = {
     select: boolean;
     type: boolean;
   };
+  onlyRegulars: boolean;
+  onlyIrregulars: boolean;
+  blurVerbs: boolean;
 };
 
-type VerbType = 'regular' | 'irregular';
+export type VerbType = 'regular' | 'irregular';
 
 export type VerbForm = {
   type: VerbType;

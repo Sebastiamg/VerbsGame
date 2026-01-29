@@ -5,7 +5,18 @@ import { randomArr } from '../utils/functions.utils';
 
 export default function HomePage() {
   const contextConfigState = useConfigStateContext();
-  const sortedVerbs = randomArr(contextConfigState.verbs);
+  const sortedVerbs = randomArr(contextConfigState.verbs).filter(verb => {
+    if (
+      !contextConfigState.onlyRegulars &&
+      !contextConfigState.onlyIrregulars
+    ) {
+      return verb;
+    } else if (contextConfigState.onlyRegulars) {
+      return verb.type === 'regular';
+    } else if (contextConfigState.onlyIrregulars) {
+      return verb.type === 'irregular';
+    }
+  });
 
   const [verbsArrIndex, setVerbsArrIndex] = useState(0);
 
@@ -23,7 +34,11 @@ export default function HomePage() {
   return (
     <>
       <div className="p-10 md:w-2/5 flex flex-wrap gap-5 w-full mx-auto">
-        <VerbCard verb={sortedVerbs[verbsArrIndex]} />
+        <VerbCard
+          key={verbsArrIndex}
+          verb={sortedVerbs[verbsArrIndex]}
+          blurWords={contextConfigState.blurVerbs}
+        />
         <div className="w-full flex rounded-lg overflow-hidden border border-gray-300">
           <button
             onClick={() => prevNextVerb('prev')}
