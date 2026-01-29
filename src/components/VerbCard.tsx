@@ -28,7 +28,7 @@ export default function VerbCard({ verb, blurWords }: Props) {
       : 'shadow-orange-200/50 hover:shadow-orange-300/70';
 
   const removeBlur = (e: React.MouseEvent<HTMLSpanElement>) => {
-    e.currentTarget.classList.remove('blur-xs');
+    e.currentTarget.classList.remove('blur-sm');
   };
 
   return (
@@ -53,7 +53,7 @@ export default function VerbCard({ verb, blurWords }: Props) {
             <span className="text-gray-700 font-semibold">Base form:</span>
             <span
               onClick={removeBlur}
-              className={`text-2xl font-bold text-blue-600 cursor-pointer ${blurWords ? 'blur-xs' : ''}`}>
+              className={`text-2xl font-bold text-blue-600 cursor-pointer ${blurWords ? 'blur-sm' : ''}`}>
               {toTitleCase(verb.base_form)}
             </span>
           </div>
@@ -61,7 +61,7 @@ export default function VerbCard({ verb, blurWords }: Props) {
             <span className="text-gray-700 font-semibold">Past:</span>
             <span
               onClick={removeBlur}
-              className={`text-2xl font-bold text-green-600 cursor-pointer ${blurWords ? 'blur-xs' : ''}`}>
+              className={`text-2xl font-bold text-green-600 cursor-pointer ${blurWords ? 'blur-sm' : ''}`}>
               {toTitleCase(verb.variation.past_form)}
             </span>
           </div>
@@ -69,7 +69,7 @@ export default function VerbCard({ verb, blurWords }: Props) {
             <span className="text-gray-700 font-semibold">Participle:</span>
             <span
               onClick={removeBlur}
-              className={`text-2xl font-bold text-orange-600 cursor-pointer ${blurWords ? 'blur-xs' : ''}`}>
+              className={`text-2xl font-bold text-orange-600 cursor-pointer ${blurWords ? 'blur-sm' : ''}`}>
               {toTitleCase(verb.variation.var_form)}
             </span>
           </div>
